@@ -2,6 +2,6 @@
 
 **Project Mind Map:**
 
-![Project Workflow](https://raw.githubusercontent.com/Dipta04/RNN/main/Project_mindmap.png)
+![NLP QA System Pipeline](https://raw.githubusercontent.com/Dipta04/RNN/main/Project_mind_map.png)
 
 
