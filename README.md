@@ -2,6 +2,6 @@
 
 **Project Mind Map:**
 
-![Project Workflow](https://raw.githubusercontent.com/Dipta04/RNN/main/Project_workflow.png)
+![Project Workflow](https://raw.githubusercontent.com/Dipta04/RNN/main/Project_mindmap.png)
 
 
